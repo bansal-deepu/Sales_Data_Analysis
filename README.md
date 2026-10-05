@@ -153,6 +153,5 @@ pbix/Sales_data_analysis.pbix
 
 **Deepanshu Bansal**
 * 📍 Gharaunda, Haryana, India
-* ✉️ [Email](mailto:bansaldeepanshu1976@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/deepanshu-bansal-55db36)
 * 🐙 [GitHub Profile](https://github.com/bansal-deepu)
